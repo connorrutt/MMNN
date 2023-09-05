@@ -1,12 +1,9 @@
-"""XGBoostLSS - An extension of XGBoost to probabilistic forecasting"""
-
 from . import distribution_utils
 from . import multivariate_distribution_utils
 from . import flow_utils
 from . import zero_inflated
 from . import mixture_distribution_utils
 from . import Gaussian
-from . import StudentT
 from . import Gamma
 from . import Gumbel
 from . import Laplace

@@ -13,33 +13,7 @@ Content undergoes segmentation via yolov8 classification along with tensorflow f
 ![Screenshot 2023-09-04 120008](https://github.com/connorrutt/MMNN/assets/117954511/7b723e23-1f13-4048-91cc-3e4e8379bee9)
 
 
-In closed testing 
-├── Documentation/
-│   ├── User_Guide.pdf
-│   ├── Developer_Documentation.pdf
-│   ├── README.md
-│   └── Change_Log.md
-├── Source_Code/
-│   ├── main.py
-│   ├── gui.py
-│   ├── neural_network.py
-│   ├── data_loader.py
-│   ├── utils.py
-│   ├── model/
-│   │   ├── model_architecture.py
-│   │   └── pretrained_models/
-│   │       ├── model1.pth
-│   │       └── model2.pth
-│   ├── data/
-│   │   ├── dataset.py
-│   │   ├── data_preprocessing.py
-│   │   └── sample_data/
-│   │       ├── training_data/
-│   │       └── testing_data/
-├── Screenshots/
-│   ├── screenshot1.png
-│   ├── screenshot2.png
-│   └── ...
-├── Sample_Data/
-│   ├── sample_data_file1.csv
-│   ├── sample_data_file2.csv
+## In closed testing while awaiting proper licensing teams to confirm release of final models, GUIs, and the re-works of premade models such as YOLOv8.
+
+![image](https://github.com/connorrutt/MMNN/assets/117954511/8bdc70f5-94c0-4ac7-8b14-f7d4b8e4aa86)
+

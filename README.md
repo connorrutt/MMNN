@@ -7,6 +7,14 @@
 ![acafcf02-b817-4596-b818-f0edb1515ff7](https://github.com/connorrutt/MMNN/assets/117954511/0b6c40f0-03a0-470a-80df-26de019a4328)
 
 
+# PROJECT UPDATE 10/16
+## This project has expanded into evaluating 3D Content on a custom built and trained network. This is using the framework of pointnet ad yoloV8 to predit harmful content in user generated 3d games. 
+
+This aims to be built into the platform, but am still in the early stages of development. 
+![Frame_1](https://github.com/connorrutt/MMNN/assets/117954511/274b215f-896e-4f44-b8c8-395539ee0f34)
+
+
+
 Content undergoes segmentation via yolov8 classification along with tensorflow for categorization and potential harm ranking. Content can be measured via engagement, with things gaining rapid engagement meeting a higher criterea. 
 
 ![Screenshot 2023-09-04 115741](https://github.com/connorrutt/MMNN/assets/117954511/f09c67e5-578d-4216-a11b-ea2937d157b7)

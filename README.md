@@ -25,3 +25,6 @@ Content undergoes segmentation via yolov8 classification along with tensorflow f
 
 ![image](https://github.com/connorrutt/MMNN/assets/117954511/8bdc70f5-94c0-4ac7-8b14-f7d4b8e4aa86)
 
+Data Sets used: 
+![Internet Memes](https://www.kaggle.com/datasets/williamscott701/memotion-dataset-7k).
+![Sketchfab 3D models for training pointnet](https://sketchfab.com/mayacoco/collections/baby-mall-78bd54bfb20e49f9b75253a86207dfca) 

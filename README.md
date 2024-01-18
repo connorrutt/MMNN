@@ -2,10 +2,20 @@
 ![Screenshot 2023-09-04 112023](https://github.com/connorrutt/MMNN/assets/117954511/1e9f274b-1b48-4c0d-9af2-e083663a5068)
 
 ## Media Management Neural Network
+![307090575_877547353212051_5583346060023672050_n](https://github.com/connorrutt/MMNN/assets/117954511/faae676c-d73c-4cfd-9e60-b51b70c43814)
 
 ## Open Source Content Moderation Tool that allows for use of CNN's in aiding a faster and percise resolution
 ![acafcf02-b817-4596-b818-f0edb1515ff7](https://github.com/connorrutt/MMNN/assets/117954511/0b6c40f0-03a0-470a-80df-26de019a4328)
 
+# PROJECT CLARIFICATION AND UPDATE 2024
+## Few additions to the collective, want to add on the usage of pointnet, as we start to utilize .OBJ and .FBX file types within multi-modal testing.
+
+![456465465](https://github.com/connorrutt/MMNN/assets/117954511/3420c513-d25e-4ef3-a99f-44c830ba9f52)
+
+
+## I also wanted to add on a basic XGBoost single modal risk factor tree. This is what, a higher level view, risk means to a tree methodology like XGBoost and the current application of use. 
+
+![300888996_594672185482844_8691735921689123352_n](https://github.com/connorrutt/MMNN/assets/117954511/b423f844-7dbb-499d-95df-bbd649f1fc69)
 
 # PROJECT UPDATE 10/16
 ## This project has expanded into evaluating 3D Content on a custom built and trained network. This is using the framework of pointnet ad yoloV8 to predit harmful content in user generated 3d games. 

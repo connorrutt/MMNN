@@ -12,11 +12,6 @@
 
 ![456465465](https://github.com/connorrutt/MMNN/assets/117954511/3420c513-d25e-4ef3-a99f-44c830ba9f52)
 
-
-## I also wanted to add on a basic XGBoost single modal risk factor tree. This is what, a higher level view, risk means to a tree methodology like XGBoost and the current application of use. 
-
-![300888996_594672185482844_8691735921689123352_n](https://github.com/connorrutt/MMNN/assets/117954511/b423f844-7dbb-499d-95df-bbd649f1fc69)
-
 # PROJECT UPDATE 10/16
 ## This project has expanded into evaluating 3D Content on a custom built and trained network. This is using the framework of pointnet ad yoloV8 to predit harmful content in user generated 3d games. 
 
